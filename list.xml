@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ListEntryArray</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Free Sample( Comments For pthreads)</string>
+			<key>DetailInfo</key>
+			<string>A very simple Comments Example for the project pthread. the ptoject pthread can be download in the Project Page. There is a default entry for it in that page.</string>
+			<key>url</key>
+			<string>https://github.com/gzg1984/FreeComments/archive/master.zip</string>
+		</dict>
+	</array>
+	<key>owner</key>
+	<string>Maxpain</string>
+	<key>project_name</key>
+	<string>ExamplePthreadProject</string>
+	<key>time</key>
+	<string>2015-12-28 16:41:54</string>
+	<key>version</key>
+	<string>c-p-3</string>
+	<key>OwnerUUID</key>
+	<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
+</dict>
+</plist>
