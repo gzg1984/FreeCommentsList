@@ -11,6 +11,8 @@
 			<string>A very simple Comments Example for the project pthread. the ptoject pthread can be download in the Project Page. There is a default entry for it in that page.</string>
 			<key>url</key>
 			<string>https://github.com/gzg1984/FreeComments/archive/master.zip</string>
+			<key>ContentPath</key>
+			<string>FreeComments-master/ExamplePthreadProject.xml</string>
 		</dict>
 		<dict>
 			<key>Name</key>
@@ -19,6 +21,8 @@
 			<string>A very simple Comments Example for the serial driver in 2.6.32</string>
 			<key>url</key>
 			<string>https://github.com/gzg1984/FreeComments-Serial/archive/master.zip</string>
+			<key>ContentPath</key>
+			<string>FreeComments-Serial-master/serial.xml</string>
 		</dict>
 	</array>
 	<key>owner</key>
