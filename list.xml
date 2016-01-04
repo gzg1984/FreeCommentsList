@@ -12,6 +12,14 @@
 			<key>url</key>
 			<string>https://github.com/gzg1984/FreeComments/archive/master.zip</string>
 		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Serial Driver comments For 2.6.32</string>
+			<key>DetailInfo</key>
+			<string>A very simple Comments Example for the serial driver in 2.6.32</string>
+			<key>url</key>
+			<string>https://github.com/gzg1984/FreeComments-Serial/archive/master.zip</string>
+		</dict>
 	</array>
 	<key>owner</key>
 	<string>Maxpain</string>
