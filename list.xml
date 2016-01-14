@@ -24,6 +24,16 @@
 			<key>ContentPath</key>
 			<string>FreeComments-Serial-master/serial.xml</string>
 		</dict>
+		<dict>
+			<key>Name</key>
+			<string>[TC][中][2.6.32]Comments For MSI/MSI-X</string>
+			<key>DetailInfo</key>
+			<string>Comments Example for PCIe MSI/MSI-X</string>
+			<key>url</key>
+			<string>https://github.com/gzg1984/-FreeComments-pci-msi/archive/master.zip</string>
+			<key>ContentPath</key>
+			<string>-FreeComments-pci-msi-master/msi.c.z.xml</string>
+		</dict>
 	</array>
 	<key>owner</key>
 	<string>Maxpain</string>
