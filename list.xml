@@ -34,6 +34,16 @@
 			<key>ContentPath</key>
 			<string>-FreeComments-pci-msi-master/msi.c.z.xml</string>
 		</dict>
+		<dict>
+			<key>Name</key>
+			<string>[TC][中][1.0]schedule</string>
+			<key>DetailInfo</key>
+			<string>Comments Example for schedule in linux1.0</string>
+			<key>url</key>
+			<string>https://github.com/gzg1984/FreeComments-Schedulev1/archive/master.zip</string>
+			<key>ContentPath</key>
+			<string>FreeComments-Schedulev1-master/sched.c.xml</string>
+		</dict>
 	</array>
 	<key>owner</key>
 	<string>Maxpain</string>
