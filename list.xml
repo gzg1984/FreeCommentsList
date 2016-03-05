@@ -44,6 +44,16 @@
 			<key>ContentPath</key>
 			<string>FreeComments-Schedulev1-master/sched.c.xml</string>
 		</dict>
+		<dict>
+			<key>Name</key>
+			<string>[TC][中][1.0]Basic</string>
+			<key>DetailInfo</key>
+			<string>Comments Example for Basic tool code</string>
+			<key>url</key>
+			<string>https://github.com/gzg1984/APUE-Comments/archive/master.zip</string>
+			<key>ContentPath</key>
+			<string>APUE-Comments-master/APUE-master.xml</string>
+		</dict>
 	</array>
 	<key>owner</key>
 	<string>Maxpain</string>
