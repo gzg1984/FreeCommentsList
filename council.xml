@@ -34,9 +34,9 @@
 		</dict>
 		<dict>
 			<key>CouncilName</key>
-			<string>2.6.32 Schedule Council</string>
+			<string>Linux 1.0 Schedule Council</string>
 			<key>ConcreteTarget</key>
-			<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
+			<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
 			<key>Offset</key>
 			<string>kernel/sched.c</string>
 			<key>Speech</key>
