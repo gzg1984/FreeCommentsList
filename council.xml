@@ -50,6 +50,14 @@
 			<key>Speech</key>
 			<string>https://github.com/gzg1984/APUE-Comments/archive/master.zip</string>
 		</dict>
+		<dict>
+			<key>CouncilName</key>
+			<string>Linux 1.0 C.C</string>
+			<key>ConcreteTarget</key>
+			<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
+			<key>ProductID</key>
+			<string>LinuxSource.linux_1.0</string>
+		</dict>
 	</array>
 	<key>version</key>
 	<string>CouncilV0</string>
