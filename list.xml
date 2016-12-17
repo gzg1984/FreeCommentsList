@@ -6,69 +6,17 @@
 	<array>
 		<dict>
 			<key>Name</key>
-			<string>Free Sample( Comments For pthreads)</string>
+			<string>[zh-CN][中]Comments For 2.6.32.67</string>
 			<key>DetailInfo</key>
-			<string>A very simple Comments Example for the project pthread. the ptoject pthread can be download in the Project Page. There is a default entry for it in that page.</string>
+			<string>A very simple Comments Example for 2.6.32</string>
 			<key>url</key>
-			<string>https://github.com/gzg1984/FreeComments/archive/master.zip</string>
+			<string>https://github.com/gzg1984/Linux-2.6.32.67-comments/archive/master.zip</string>
 			<key>ContentPath</key>
-			<string>FreeComments-master/ExamplePthreadProject.xml</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>Serial Driver comments For 2.6.32[中文]</string>
-			<key>DetailInfo</key>
-			<string>A very simple Comments Example for the serial driver in 2.6.32</string>
-			<key>url</key>
-			<string>https://github.com/gzg1984/FreeComments-Serial/archive/master.zip</string>
-			<key>ContentPath</key>
-			<string>FreeComments-Serial-master/serial.xml</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>[TC][中][2.6.32]Comments For MSI/MSI-X</string>
-			<key>DetailInfo</key>
-			<string>Comments Example for PCIe MSI/MSI-X</string>
-			<key>url</key>
-			<string>https://github.com/gzg1984/-FreeComments-pci-msi/archive/master.zip</string>
-			<key>ContentPath</key>
-			<string>-FreeComments-pci-msi-master/msi.c.z.xml</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>[TC][中][1.0]schedule</string>
-			<key>DetailInfo</key>
-			<string>Comments Example for schedule in linux1.0</string>
-			<key>url</key>
-			<string>https://github.com/gzg1984/FreeComments-Schedulev1/archive/master.zip</string>
-			<key>ContentPath</key>
-			<string>FreeComments-Schedulev1-master/sched.c.xml</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>[TC][中]Basic</string>
-			<key>DetailInfo</key>
-			<string>Comments Example for Basic tool code</string>
-			<key>url</key>
-			<string>https://github.com/gzg1984/APUE-Comments/archive/master.zip</string>
-			<key>ContentPath</key>
-			<string>APUE-Comments-master/APUE-master.xml</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>[TC][中]Linux 1.0 memory management</string>
-			<key>DetailInfo</key>
-			<string>Linux 1.0 memory management</string>
-			<key>url</key>
-			<string>https://github.com/gzg1984/Linux_1.0_mm/archive/master.zip</string>
-			<key>ContentPath</key>
-			<string>Linux_1.0_mm-master/mm.xml</string>
+			<string>Linux-2.6.32.67-comments-master/linux-2.6.32.67.xml</string>
 		</dict>
 	</array>
 	<key>owner</key>
 	<string>Maxpain</string>
-	<key>project_name</key>
-	<string>ExamplePthreadProject</string>
 	<key>time</key>
 	<string>2015-12-28 16:41:54</string>
 	<key>version</key>

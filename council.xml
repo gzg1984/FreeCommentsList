@@ -6,59 +6,11 @@
 	<array>
 		<dict>
 			<key>CouncilName</key>
-			<string>Pthread Example Council</string>
-			<key>ConcreteTarget</key>
-			<string>https://github.com/gzg1984/pthreads/archive/master.zip</string>
-			<key>Speech</key>
-			<string>https://github.com/gzg1984/FreeComments/archive/master.zip</string>
-		</dict>
-		<dict>
-			<key>CouncilName</key>
-			<string>2.6.32 Serial Council</string>
+			<string>Linux 2.6.32.67 C.C</string>
 			<key>ConcreteTarget</key>
 			<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
-			<key>Offset</key>
-			<string>drivers/serial</string>
 			<key>Speech</key>
-			<string>https://github.com/gzg1984/FreeComments-Serial/archive/master.zip</string>
-		</dict>
-		<dict>
-			<key>CouncilName</key>
-			<string>Linux 1.0 mm</string>
-			<key>ConcreteTarget</key>
-			<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
-			<key>Offset</key>
-			<string>mm</string>
-			<key>Speech</key>
-			<string>https://github.com/gzg1984/Linux_1.0_mm/archive/master.zip</string>
-		</dict>
-		<dict>
-			<key>CouncilName</key>
-			<string>2.6.32 MSI Council</string>
-			<key>ConcreteTarget</key>
-			<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
-			<key>Offset</key>
-			<string>drivers/pci/msi.c</string>
-			<key>Speech</key>
-			<string>https://github.com/gzg1984/-FreeComments-pci-msi/archive/master.zip</string>
-		</dict>
-		<dict>
-			<key>CouncilName</key>
-			<string>Linux 1.0 Schedule Council</string>
-			<key>ConcreteTarget</key>
-			<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
-			<key>Offset</key>
-			<string>kernel/sched.c</string>
-			<key>Speech</key>
-			<string>https://github.com/gzg1984/FreeComments-Schedulev1/archive/master.zip</string>
-		</dict>
-		<dict>
-			<key>CouncilName</key>
-			<string>Basic Example Council</string>
-			<key>ConcreteTarget</key>
-			<string>https://github.com/gzg1984/APUE/archive/master.zip</string>
-			<key>Speech</key>
-			<string>https://github.com/gzg1984/APUE-Comments/archive/master.zip</string>
+			<string>https://github.com/gzg1984/Linux-2.6.32.67-comments/archive/master.zip</string>
 		</dict>
 		<dict>
 			<key>CouncilName</key>
